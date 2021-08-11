@@ -14,6 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# ThreeJS-GUI
-# Three-GUI
-# Three-GUI
+
